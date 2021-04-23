@@ -1,5 +1,8 @@
 # Credit
+
 [HafizhXSec404](https://github.com/MrHafizhDev)
+[HafizhXSec404](https://instagram.com/hafizh.ganzzz_)
+[HafizhXSec404](https://bit.ly/GROUPHAFIZHBOT)
 
 # Tutor Install Script Spam SMS
 ```
@@ -16,4 +19,4 @@ $ python Spamsms.py
 ```
 Ketik Di Termux Tanpa Tanda [ $ ]
 ```
- Done Ya Om
+ Done Ya Om.
