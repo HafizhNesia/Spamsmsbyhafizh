@@ -8,4 +8,9 @@ $ git clone https://github.com/MrHafizhDev/Spamsmsbyhafizh
 $ cd Spamsmsbyhafizh
 $ python Spamsms.py
 ```
+
+# Note
+```
+Ketik Di Termux Tanpa Tanda [ $ ]
+```
  Done.
