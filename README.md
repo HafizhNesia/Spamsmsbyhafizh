@@ -16,4 +16,4 @@ $ python Spamsms.py
 ```
 Ketik Di Termux Tanpa Tanda [ $ ]
 ```
- Done Om
+ Done Ya Om
