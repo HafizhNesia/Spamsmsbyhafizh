@@ -1,5 +1,5 @@
 # Credit
-`[[=] HafizhXSec404](https://github.com/MrHafizhDev)`
+[HafizhXSec404](https://github.com/MrHafizhDev)
 
 # Tutor Install Script Spam SMS
 ```
