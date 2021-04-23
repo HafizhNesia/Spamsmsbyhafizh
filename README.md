@@ -1,4 +1,7 @@
-# Tutor install Script Spam SMS
+# Credit
+`[[=] HafizhXSec404](https://github.com/MrHafizhDev)`
+
+# Tutor Install Script Spam SMS
 ```
 $ pkg update && pkg upgrade
 $ pkg install python
@@ -13,4 +16,4 @@ $ python Spamsms.py
 ```
 Ketik Di Termux Tanpa Tanda [ $ ]
 ```
- Done.
+ Done Om
